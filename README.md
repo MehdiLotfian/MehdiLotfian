@@ -10,10 +10,11 @@ I'm an MPhil student at The Chinese University of Hong Kong working under Prof. 
 ---
 
 ## 📚 Research Interests
-- Generative Models & Large Language Models  
-- Machine Learning Theory  
-- Prompt Optimization & Routing  
-- Statistics & Information Theory  
+- Machine Learning Theory 
+- Optimization
+- Large Language Models  
+- Statistics
+- Generative Models
 
 ---
 
@@ -21,7 +22,7 @@ I'm an MPhil student at The Chinese University of Hong Kong working under Prof. 
 
 **PromptSplit: Revealing Prompt-Level Disagreement in Generative Models**  
 Mehdi Lotfian, Mohammad Jalali, Farzan Farnia  
-*arXiv:2602.04009 [cs.LG]* • Submitted to ICML 2026  
+*arXiv:2602.04009 [cs.LG]* 
 [arXiv](https://arxiv.org/abs/2602.04009) • [Code](https://github.com/MehdiLotfian/PromptSplit)
 
 ---
