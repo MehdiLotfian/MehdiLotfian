@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-I'm an MPhil student at The Chinese University of Hong Kong working under Prof. Farzan Farnia. My research focuses on **generative models**, **large language models**, **prompt optimization**, and **machine learning theory**. Currently developing frameworks for prompt-level disagreement detection and cost-aware routing in generative AI.
+I'm an MPhil student at The Chinese University of Hong Kong working under Prof. Farzan Farnia. My research focuses on **generative models**, **large language models**, and **optimization**.
 
 ---
 
