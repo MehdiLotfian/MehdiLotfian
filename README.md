@@ -61,8 +61,15 @@ Mehdi Lotfian, Mohammad Jalali, Farzan Farnia
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehdilotfian&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdilotfian&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5&hide=Jupyter%20Notebook)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdilotfian&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api?username=mehdilotfian&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdilotfian&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+  <img height="150px" width="auto" src="https://streak-stats.demolab.com?user=mehdilotfian&theme=tokyonight&hide_border=true&background=00000000" alt="mehdilotfian" />
+</p>
 
 <!-- ## 🏆 GitHub Trophies -->
 
