@@ -5,7 +5,8 @@ I'm an MPhil student at The Chinese University of Hong Kong working under Prof. 
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Mehdi-Lotfian/pfbid02vzTUisdxNpeWWuMRtGuqeTdWF4CX23eLbcSNe815uybruPBKbXtJAnRUuD5abXDwl/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehdi__lotfian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MehdiLotfian) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MeLotfian) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Mehdi-Lotfian/pfbid02vzTUisdxNpeWWuMRtGuqeTdWF4CX23eLbcSNe815uybruPBKbXtJAnRUuD5abXDwl/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehdi__lotfian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MehdiLotfian) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MeLotfian) [![Deep-ML](https://img.shields.io/badge/Deep--ML-6C63FF?style=flat&logo=dependabot&logoColor=white)](https://www.deep-ml.com/profile/PAFi0a7hPDMjiaQ3JD9Q7vy8CPt1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/MehdiLotfian/)
 
 ---
 
