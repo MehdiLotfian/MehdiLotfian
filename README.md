@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-I'm an MPhil student at The Chinese University of Hong Kong working under Prof. Farzan Farnia. My research focuses on **generative models**, **large language models**, and **optimization**.
+I'm an MPhil student at The Chinese University of Hong Kong working under Prof. Farzan Farnia. Prior to that, I obtained my Bachelor degree in Computer Engineering at Sharif University of Technology.
 
 ---
 
