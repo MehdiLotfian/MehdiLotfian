@@ -62,13 +62,9 @@ Mehdi Lotfian, Mohammad Jalali, Farzan Farnia
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdilotfian&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdilotfian&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=mehdilotfian&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdilotfian&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
-</p>
 
 
 <!-- ## 🏆 GitHub Trophies -->
