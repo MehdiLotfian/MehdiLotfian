@@ -34,7 +34,7 @@ Mehdi Lotfian, Mohammad Jalali, Farzan Farnia
 
 ## 🧪 Featured Projects
 
-- **[PromptSplit](https://github.com/MehdiLotfian/PromptSplit)** — Kernel-based framework for detecting prompt-dependent disagreements in text-to-image and LLM models
+- **[PromptSplit](https://github.com/MehdiLotfian/PromptSplit)** — Kernel-based framework for detecting prompt-dependent disagreements in text-to-image models and LLM
 - **[Artificial-Intelligence-Mini-Projects](https://github.com/MehdiLotfian/Artificial-Intelligence-Mini-Projects)** — Classical algorithms, ML, and deep learning course projects  
 - **[Machine-Learning-Small-Projects](https://github.com/MehdiLotfian/Machine-Learning-Small-Projects)** — Implementations from graduate ML coursework  
 - Additional repositories (NLP, IR, sentiment analysis, etc.) available in my profile
