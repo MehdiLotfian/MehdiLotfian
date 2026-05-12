@@ -8,7 +8,6 @@ I'm an MPhil student at The Chinese University of Hong Kong working under Prof. 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/people/Mehdi-Lotfian/pfbid02vzTUisdxNpeWWuMRtGuqeTdWF4CX23eLbcSNe815uybruPBKbXtJAnRUuD5abXDwl/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mehdi__lotfian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/MehdiLotfian)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/MeLotfian)
 [![Deep-ML](https://img.shields.io/badge/Deep--ML-4B32C3?style=flat&logoColor=white)](https://www.deep-ml.com/profile/PAFi0a7hPDMjiaQ3JD9Q7vy8CPt1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/MehdiLotfian/)
 
